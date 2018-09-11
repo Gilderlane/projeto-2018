@@ -1,6 +1,6 @@
 ---
 title: "Relatorio"
-author: "gil"
+author: "gil et al."
 date: "September 11, 2018"
 output: html_document
 ---
