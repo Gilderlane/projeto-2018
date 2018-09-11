@@ -10,7 +10,7 @@ Lê o arquivo csv gapminder_data.csv
 dados = read.csv("dados/gapminder_data.csv")
 ```
 
-Mostra  as primeiras linhas
+Mostra  as primeiras linhas (Alteracao do comentario)
 ```{r}
-head(dados,10)
+head(dados,20)
 ```
