@@ -1,5 +1,5 @@
 ---
-title: "Relatorio do projeto sobre gapminder"
+title: "Relatorio alterado pela Gil"
 author: "gil et al."
 date: "September 11, 2018"
 output: html_document
