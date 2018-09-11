@@ -1,0 +1,16 @@
+---
+title: "Relatorio"
+author: "gil"
+date: "September 11, 2018"
+output: html_document
+---
+
+Lê o arquivo csv gapminder_data.csv
+```{r}
+dados = read.csv("dados/gapminder_data.csv")
+```
+
+Mostra  as primeiras linhas
+```{r}
+head(dados,10)
+```
